@@ -1,0 +1,64 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Read and Understand Java",
+      "Day": "Mondays from 2:30pm to 7:00pm",
+      "Reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Basic Concepts of Javascript",
+      "Day": "Tuesdays from 12:00pm to 5:00pm",
+      "Reminder": true,
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Solve some Python Challenges on Hackerank",
+      "Day": "Wednesdays from 10:00am to 4:30pm",
+      "Reminder": true,
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "Read React exhaustively",
+      "Day": "Thursdays from 5:00pm to 10:00pm",
+      "Reminder": true,
+      "reminder": true
+    },
+    {
+      "id": 5,
+      "text": "Get to be familiar with mySql",
+      "Day": "Friday from 1:30pm to 5:30pm",
+      "Reminder": true,
+      "reminder": true
+    },
+    {
+      "id": 6,
+      "text": "Do some workouts",
+      "Day": "Saturday from 6:00am to 8:00am",
+      "Reminder": true,
+      "reminder": true
+    },
+    {
+      "text": "Huncho's Rest Day",
+      "Day": "Sunday ",
+      "Reminder": true,
+      "id": 7,
+      "reminder": true
+    },
+    {
+      "text": "Mr Nice Guy",
+      "Day": "Today",
+      "Reminder": true,
+      "id": 8
+    },
+    {
+      "text": "Listening to Jon Bellions' songs  ",
+      "Day": "Wedneday from 10:00 am ",
+      "Reminder": true,
+      "id": 9
+    }
+  ]
+}
